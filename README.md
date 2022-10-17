@@ -5,4 +5,4 @@ Please note that I split my code into two files sequentially:
 - techpoint_xtern_1.ipynb
 - techpoint_xtern_2.ipynb
 
-Also note that sometimes GitHub does not load images imported with the Image() command. If so, you can find the corresponding image in the "img" folder.
+Sometimes GitHub does not load images imported with the Image() command. If so, you can find the corresponding image in the "img" folder.
